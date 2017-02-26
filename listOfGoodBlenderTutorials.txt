@@ -1,0 +1,43 @@
+Blender tutorials and other resources to check out again as needed...
+
+
+https://www.youtube.com/watch?v=_A6IzKbxcG4
+	animation nodes
+
+
+http://www.creativeshrimp.com/exoplanet-blender-tutorial.html
+	miscrodisplacement
+
+https://www.youtube.com/watch?v=hjMtHWxLD4g
+	compositing arrays
+
+https://medium.com/@lawrencejaeger/control-a-color-ramp-node-from-outside-a-node-group-a63e0d3481e2#.wdbcivezg
+	colorramp control outside node group
+
+https://www.youtube.com/watch?v=eo6HV-J0Jmg
+	VSE video editing
+
+https://www.youtube.com/watch?v=8byft4LEqWU
+	how to model a cave scene
+
+http://real3d.fr/fire-shader/
+	fire shader using volume shading
+	(good for nebula?)
+
+https://www.blendernation.com/2017/02/06/free-download-asteroids-lightnings-galore/
+
+http://www.markkingsnorth.com/2017/01/31/blender-nebula-group-node-tutorial-download/
+
+http://3dwolf.weebly.com/textures.html
+	PBR textures
+
+https://www.youtube.com/watch?list=PLnAARr1S7jUgZLMHIHJAMCBdxEhRW5iZz&v=anB2qVpAg-8
+	PBR workflow video tutorials
+
+http://www.mobymotionblog.com/2017/01/molecular-addon-script-everything-you-need-to-know.html
+
+http://gameover.studio/beginner-tutorial-for-low-poly-design-in-blender/
+
+
+
+
